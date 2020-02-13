@@ -2,7 +2,7 @@
 🐰 Luca Montaigut : https://github.com/luca-montaigut
 
 ## Auteur : THP-S5-J4
-Romain Leporatti : https://github.com/lifeae
+Brice Gindre : https://github.com/thebidixhd
 
 # The Gossip Project
 
